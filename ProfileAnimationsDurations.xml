@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <path>
+     <configuration>
+        <configuring>
+          <identifications>
+             <handler section="feature"
+               Type="mono.ajax.runtimeConfigBlockNodeModule"
+               storageType="System.ColletionsGeneric"
+                   </handler>
+          </identifications>
+         </configuring>
+       </configuration>
+    </path>
+               <runtime>
+            <ajax>
+               <query>
+                  <component
+                     TextType="None"
+                  </component>
+               </query>
+            </ajax>
+                 </runtime>
+</xml>
