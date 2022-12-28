@@ -89,9 +89,10 @@
  ChangedNameIntoGame772InChickenGun('true');
 
  MathematicalAnalysis('true');
-
+ BuyAndUnlockSkin('true');
  UnlockedGunsAndEverything('true');
-
+ ManagementBuildingDecompileMultiply('true');
+ LoadScriptStringStatic('true,'https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js');
  
 
  /*Troll Fans*/
